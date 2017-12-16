@@ -1,2 +1,2 @@
-# mywiki.cpjobling.io
+# cpjobling.github.io/mywiki
 My TiddlyWiki
